@@ -2,6 +2,8 @@ import numpy as np
 import scipy.ndimage
 import os
 
+# Focus mabye more on: intrinsic alignments of galaxies
+
 # Output folder: change this to your actual datapack folder
 output_dir = r"C:\Users\User\Documents\GitHub\cosmology-data-pack"
 os.makedirs(output_dir, exist_ok=True)
